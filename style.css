@@ -1,0 +1,14 @@
+.container{
+  background-color:#7a3f79;
+}
+.sign{
+  margin-top: 20px;margin-left: 25%;color:white; 
+}
+.card{
+
+  padding: 30px; border-radius: 10px; width:50%; margin:auto
+}
+.btn{
+  background-color: #4373d9;
+  width:20%
+}
